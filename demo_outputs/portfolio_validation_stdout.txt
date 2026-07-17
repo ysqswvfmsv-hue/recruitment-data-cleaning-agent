@@ -1,0 +1,1 @@
+{"status": "PASS", "file_count": 19, "missing_required_files": [], "sensitive_findings": [], "large_or_forbidden_files": [], "note": "Documentation may describe categories of excluded private material; findings only report concrete personal paths or secret-like assignments."}

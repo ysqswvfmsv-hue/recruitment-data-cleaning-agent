@@ -1,0 +1,21 @@
+# Public File Manifest
+
+- `.agents/skills/recruitment-data-cleaning/SKILL.md`
+- `.gitignore`
+- `PUBLIC_FILE_MANIFEST.md`
+- `README.md`
+- `README.zh-CN.md`
+- `agents/openai.yaml`
+- `demo_outputs/cleaned_sample.csv`
+- `demo_outputs/portfolio_validation_stdout.txt`
+- `demo_outputs/quality_report.json`
+- `demo_outputs/quality_report.md`
+- `demo_outputs/test_results.txt`
+- `demo_outputs/validation_report.md`
+- `portfolio_validation_report.md`
+- `requirements.txt`
+- `sample_data/raw/sample_recruitment_raw.csv`
+- `scripts/clean_recruitment_data.py`
+- `scripts/generate_sample_data.py`
+- `scripts/validate_portfolio.py`
+- `tests/test_clean_recruitment_data.py`

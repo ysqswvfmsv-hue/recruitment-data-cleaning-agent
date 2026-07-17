@@ -1,0 +1,45 @@
+.venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Secrets and local environment
+.env
+.env.*
+*.pem
+*.key
+*.secret
+*.token
+*.cookie
+
+# Large or private data artifacts
+*.csv
+*.csv.gz
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+*.parquet
+*.db
+*.sqlite
+*.sqlite3
+
+# Keep only the tiny synthetic demo CSVs tracked.
+!sample_data/
+!sample_data/raw/
+!sample_data/raw/sample_recruitment_raw.csv
+!demo_outputs/
+!demo_outputs/cleaned_sample.csv
+
+/data/
+/raw/
+/output/

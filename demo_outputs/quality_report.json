@@ -1,0 +1,27 @@
+{
+  "input_rows": 104,
+  "invalid_job_links": 2,
+  "duplicate_rows": 3,
+  "output_rows": 99,
+  "unique_job_ids": 99,
+  "city_non_empty": 99,
+  "salary_non_empty": 99,
+  "duplicate_job_ids": [
+    "900024",
+    "900049",
+    "900074"
+  ],
+  "columns": [
+    "城市",
+    "标题",
+    "标题链接",
+    "薪资",
+    "公司名称",
+    "公司性质",
+    "公司规模",
+    "行业领域",
+    "采集时的时间"
+  ],
+  "input_sha256": "b399df8eb2721d6b92fd6b6ff6db64cf57cbc2f1414a7048334c70b309ae70b8",
+  "generated_at": "2026-07-15T12:15:19Z"
+}

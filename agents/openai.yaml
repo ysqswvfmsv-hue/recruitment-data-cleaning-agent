@@ -1,0 +1,19 @@
+version: 1
+name: recruitment-data-cleaning-agent
+description: Public portfolio agent for privacy-safe recruitment CSV cleaning, audit reporting, and validation.
+skills:
+  - .agents/skills/recruitment-data-cleaning/SKILL.md
+entrypoints:
+  clean: python scripts/clean_recruitment_data.py
+  test: python -m unittest discover -s tests
+  validate: python scripts/validate_portfolio.py --root . --output portfolio_validation_report.md
+safety:
+  data_policy: synthetic_sample_data_only
+  forbidden:
+    - real recruitment exports
+    - historical aggregate datasets
+    - notebooks with private paths
+    - cookies
+    - tokens
+    - account credentials
+    - personal home-directory paths
