@@ -1,5 +1,7 @@
 # Recruitment Data Cleaning Agent
 
+[![Portfolio Validation](https://github.com/ysqswvfmsv-hue/recruitment-data-cleaning-agent/actions/workflows/portfolio-validation.yml/badge.svg?branch=main)](https://github.com/ysqswvfmsv-hue/recruitment-data-cleaning-agent/actions/workflows/portfolio-validation.yml)
+
 Turn messy recruitment CSV exports into a tested, auditable, public-safe cleaning workflow for analysis and research demos.
 
 [English](README.md) / [简体中文](README.zh-CN.md)

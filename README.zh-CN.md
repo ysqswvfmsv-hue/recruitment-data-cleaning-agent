@@ -1,5 +1,7 @@
 # 招聘数据清洗 Agent
 
+[![Portfolio Validation](https://github.com/ysqswvfmsv-hue/recruitment-data-cleaning-agent/actions/workflows/portfolio-validation.yml/badge.svg?branch=main)](https://github.com/ysqswvfmsv-hue/recruitment-data-cleaning-agent/actions/workflows/portfolio-validation.yml)
+
 将杂乱的招聘 CSV 导出整理成可测试、可审计、适合公开展示的数据清洗工作流。
 
 [English](README.md) / [简体中文](README.zh-CN.md)
